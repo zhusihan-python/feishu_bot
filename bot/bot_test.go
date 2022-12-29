@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ikapta/bot"
+	"github.com/zhusihan-python/bot"
 )
 
 var testWh = "95f3e056-56d6-4ede-8f18-30b8107ff69b"

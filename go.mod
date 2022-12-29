@@ -1,3 +1,3 @@
-module github.com/ikapta
+module github.com/zhusihan-python
 
-go 1.18
+go 1.19

@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/ikapta/bot"
-	"github.com/ikapta/event"
+	"github.com/zhusihan-python/bot"
+	"github.com/zhusihan-python/event"
 )
 
 func indexHandler(w http.ResponseWriter, r *http.Request) {
